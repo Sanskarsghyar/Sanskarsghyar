@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanskarsghyar
 - 👀 I’m interested in Machine Learning, Data Science 
-- 📫 Reach me at (mailto:sanskarsghyar@gmail.com)sanskarsghyar@gmail.com
+- 📫 Reach me at sanskarsghyar@gmail.com
 
 <!---
 Sanskarsghyar/Sanskarsghyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
